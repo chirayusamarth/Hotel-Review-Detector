@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Hotel Review Detector
 A naive Bayes classifier to identify hotel reviews as either truthful or deceptive, and either positive or negative. The word tokens were used as features for classification.
 
 The data files are in the following format:
